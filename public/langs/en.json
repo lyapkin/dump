@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "blog": "Blog",
+    "about": "About company",
+    "faq": "FAQ",
+    "partners": "For partners",
+    "delivery_payment": "Shipping and payment",
+    "vacancies": "Vacancies",
+    "contacts": "Contacts"
+  },
+  "header": {
+    "catalog": "Catalog"
+  },
+  "tabs": {
+    "homut": {
+      "homuti": "Clamps",
+      "nepovorot": "Fixed clamp",
+      "povorot": "Rotary clamp",
+      "stykov": "Docking clamp",
+      "fix": "Fixing clamp",
+      "bal": "Beam clamp",
+      "dosk": "Clamp to the board",
+      "bolt": "T-bolt",
+      "lestnic": "Clamp for stairs"
+    },
+    "stroyles": {
+      "stroyles": "Scaffolding",
+      "homut": "Khomutovye scaffolding",
+      "klin": "Wedge forests",
+      "chash": "Cup forests",
+      "complect": "Accessories for scaffolding"
+    },
+    "opalub_coplect": {
+      "opalub_complect": "Accessories for formwork",
+      "waterstop": "Waterstop nut",
+      "klin_zamok": "Galvanized wedge lock",
+      "bfd_zamok": "Lock BFD galvanized",
+      "gaika_vint_opor": "Nut for screw support",
+      "gaika_stayzh_treh": "Three-arm galvanized coupling nut",
+      "gaika_staych_dvuh": "Double-arm galvanized coupling nut 90mm",
+      "gaika_sharnir": "Swivel nut",
+      "vint_stayzh": "Clamping screw",
+      "gaika_malaya": "Small wing/wing nut",
+      "fix_armatur": "Reinforcement clamps"
+    },
+    "trubi_vgp": {
+      "trubi_vgp": "VGP pipes"
+    },
+    "lestnic_i_strem": {
+      "lestnici_i_strem": "Ladders and stepladders",
+      "lestnici": "Stairs"
+    }
+  },
+  "breadcrumbs": {
+    "home": "home",
+    "catalog": "Catalog"
+  },
+  "home": {
+    "first_screen": {
+      "title": "<span>Supply of components</span> for construction projects",
+      "second": "We will ensure delivery of our goods as soon as possible <span>from a warehouse in Moscow</span>, or <span>we will bring them from China</span>",
+      "button": "Get a commercial offer",
+      "next": "Next",
+      "prev": "Previous",
+      "block_first": "More than <span>500 thousand units of goods</span> in stock",
+      "block_second": "Own <span>production in China</span>"
+    },
+    "second_screen": {
+      "title": "What benefits will you get by <span>cooperating with the VYSOTA company?</span>",
+      "first_block_title": "We have all the necessary <span>licenses and approvals</span> for products",
+      "first_block_text": "Our products have certificates and test reports, quality standard EN74-1/BS1139",
+      "second_block_title": "We work directly <span>with trusted foreign manufacturers</span>",
+      "second_block_text": "The Vysota company (Uralsnabresurs LLC) is a manufacturer of scaffolding in China at the TYT CO factories. LTD. A complete range of scaffolding, formwork and safety products for the construction and industrial sectors.",
+      "third_block_title": "<span>Wide range</span> of products and quality control system",
+      "third_block_text": "Thanks to close contacts with other equipment manufacturers in Russia, we offer clients the best solutions to their problems at minimal costs.",
+      "forth_block_title": "We guarantee <span>the best price</span> on the market",
+      "forth_block_text": "We ourselves produce clamps and components at factories in China and India, so we offer the most affordable prices."
+    },
+    "third_screen": {
+      "title": "Catalog <span>components</span>",
+      "button": "More details"
+    },
+    "forth_screen": {
+      "title": "They trust us to complete the <span>most critical objects</span>",
+      "project1_title": "Construction of the Amur Gas Processing Plant",
+      "project1_city": "Svobodny",
+      "project1_text": "Supply of scaffolding, formwork and components, 2021-2027. Supply of scaffolding, formwork",
+      "project2_title": "Construction of the industrial complex \"Tobolsk Polymer\"",
+      "project2_city": "Tobolsk",
+      "project2_text": "Supply of clamps and components for scaffolding in 20XX.",
+      "project3_title": "Construction of the Yamal LNG industrial complex",
+      "project3_city": "Yamal Peninsula",
+      "project3_text": "Supply of clamps and components for scaffolding in 2018.",
+      "project4_title": "Construction of the Arctic LNG-2 complex",
+      "project4_city": "Murmansk",
+      "project4_text": "Supply of clamps and components for scaffolding 2019-2021.",
+      "project5_title": "Construction of the Yamal-Europe-2 gas pipeline",
+      "project5_city": "",
+      "project5_text": "Supply of clamps and components for scaffolding in 2019",
+      "project6_title": "Development of the Kharampurskoye field",
+      "project6_city": "Yamalo-Nenets Autonomous Okrug",
+      "project6_text": "Supply of Larsen sheet pile and timber 2020-2021",
+      "project7_title": "Construction of the Omsk Refinery",
+      "project7_city": "Omsk",
+      "project7_text": "Supply of scaffolding and components. 2018-2021",
+      "project8_title": "Construction of a refinery in Nizhny Novgorod",
+      "project8_city": "Nizhny Novgorod",
+      "project8_text": "Supply of scaffolding and components, 2018-2022.",
+      "project9_title": "Construction of a booster compressor station on Sakhalin Island",
+      "project9_city": "O. Sakhalin",
+      "project9_text": "Supply of scaffolding and components, 2019.",
+      "project10_title": "Construction of the Amur gas chemical complex",
+      "project10_city": "Svobodny",
+      "project10_text": "Supply of scaffolding, pipes, formwork and components, 2021-2024.",
+      "project11_title": "Construction of the Irkutsk Polymer Plant",
+      "project11_city": "Irkutsk",
+      "project11_text": "Supply of scaffolding, pipes, formwork and components, 2023.",
+      "project12_title": "Construction of the Baltic gas chemical complex",
+      "project12_city": "Kingisepp",
+      "project12_text": "Supply of scaffolding and components, 2018-2022."
+    },
+    "delivery": {
+      "title": "Delivery <span>to any point</span> in Russia and CIS countries",
+      "text": "We will ensure delivery of our goods as soon as possible from a warehouse in Moscow, or we will bring them from China."
+    },
+    "reputation": {
+      "title": "Reliable <span>reputation</span>, time-tested",
+      "block1_title": "Member of the register of bona fide suppliers since 2010.",
+      "block1_text": "We have been included in the register of bona fide suppliers for more than 14 years",
+      "block2_title": "We supplied components to the country's leading construction sites",
+      "block2_text": "Such companies as Gazprom, Tekfen Construction, INTER RAO, Yamata, SIBUR, Renaissance construction, Velesstroy and many others trust us to complete their construction projects.",
+      "block3_title": "Wide range of products and quality control system",
+      "block3_text": "We supply clamps and components for scaffolding and formwork to the country's leading construction projects, including the Amur Gas Processing Plant, Yamal LNG, Tobolsk Polymer, Gas Pipeline in the Yamal Autonomous Okrug, Arctic LNG-2 Complex, Kharampurskoye Field.",
+      "block4_title": "3 Warehouses in the Russian Federation",
+      "block4_text": "We have 3 warehouses in the Russian Federation, which helps us ensure delivery in the shortest possible time"
+    },
+    "gov_clients": {
+      "title": "We carry out complete sets of facilities of the largest state-owned companies"
+    },
+    "thank_letters": {
+      "title": "Thanksgiving letters"
+    },
+    "about": {
+      "title": "Company \"Vysota\" - <span className={styles['home-about__header-bold']}>leading supplier</span> In the Russian Federation and the CIS <span className={styles['home-about__header-blue']}>construction scaffolding and formwork</span>",
+      "text": "We produce components at the largest factories in China, which allows us to offer the best prices on the market for our products. Components are produced on modern equipment.",
+      "video": "Watch the video about us",
+      "block1_type": "units of goods",
+      "block1_text": "Clamps and components available in warehouses in Moscow",
+      "block2_type": "tons",
+      "block2_text": "Total weight of warehouse stock",
+      "block3_type": "Regular partners",
+      "block3_text": "We have partnerships with more than 150 enterprises in the Russian Federation and the CIS",
+      "block4_type": "Production lines",
+      "block4_text": "Our production has 14 production lines equipped with advanced equipment"
+    }
+  },
+  "form": {
+    "title": "Do you need a <span>reliable supplier of components</span> for your facility?",
+    "text": "Leave a request and we will create the best offer for you within 20 minutes",
+    "placeholder_name": "Contact person (full name)",
+    "placeholder_number": "Phone number",
+    "placeholder_activity": "Kind of activity",
+    "placeholder_comment": "Write a comment on the application",
+    "placeholder_email": "Email",
+    "placeholder_company_name": "Business name",
+    "consult_button": "Order a consultation",
+    "offer_button": "Get a commercial offer",
+    "get_price": "Check price",
+    "order_button": "Checkout",
+    "confidential": "By clicking the button you agree <span>to the terms of data processing</span>"
+  },
+  "form_screen": {
+    "title": "",
+    "text": ""
+  },
+  "map_screen": {
+    "title": "Where are we",
+    "address": "Address",
+    "number": "Phone number",
+    "schedule": "Operating mode",
+    "subscribe": "Subscribe to our social networks"
+  },
+  "footer": {
+    "logo_text": "Supply of components for construction projects",
+    "text_us": "Write to us in messengers",
+    "mail": {
+      "mail": "Mail",
+      "text_us": "<span>Write letters, send us your projects</span><span>we will be glad to answer you</span>",
+      "commercial": "For commercial offers",
+      "text_director": "Write to the manager"
+    },
+    "copyright1": "All rights reserved",
+    "copyright2": "When copying, a link to the site is required",
+    "confid": "Privacy Policy",
+    "user_agreement": "Terms of use",
+    "site_maker": "Website developed by team"
+  },
+  "address": "Ufa st. Sorge 19/1",
+  "schedule": "<span>Mon-Fri, from 09:00 to 18:00,</span><span>Sat-Sun, Closed</span>",
+  "city": "Ufa"
+}

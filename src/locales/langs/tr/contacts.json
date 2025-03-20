@@ -1,0 +1,32 @@
+{
+  "office_title": "Satış ofisi ve showroom",
+  "schedule_title": "Çalışma saatleri",
+  "msk_wharehouse_sch": "MSK deposu: günün 24 saati",
+  "free_call": "Rusya içinde ücretsiz arama, satış departmanı",
+  "mail": "Posta",
+  "spb_wh": "Depo St.Petersburg",
+  "spb_wh_address": "St.Petersburg, Obukhovskaya Oborony Bulvarı, 295, yanıyor. AT, logopark \"Troitsky\"",
+  "msk_wh": "Depo Moskova bölgesi.",
+  "msk_wh_address": "Moskova bölgesi, Noginsk bölgesi, kasaba. Obukhovo, Kudinovskoe karayolu, 4 bina 27. PSK \"Atlant-Park\"",
+  "msk_sch_val": "24 saat",
+  "details": {
+    "title": "Detaylar",
+    "company": "Sınırlı Sorumluluk Şirketi \"Uralsnabresurs\"",
+    "inn": "KALAY",
+    "kpp": "kontrol noktası",
+    "orgn": "OGRN",
+    "regist_number": "Kayıt sertifika numarası",
+    "okpo": "OKPO kodu",
+    "bank_key": "Banka",
+    "bank_val": "ŞUBE \"NIZHEGORODSKY\" JSC \"ALFA-BANK\"",
+    "bik": "BIC",
+    "ras_acc": "Ödeme hesabı",
+    "kor_acc": "Muhabir hesap",
+    "legal_address_key": "Yasal adres",
+    "legal_address_val": "Başkurdistan Cumhuriyeti, Ufa, 450059, <br />st. Richard Sorge, 15/1",
+    "mail_address_key": "Posta adresi",
+    "mail_address_val": "Başkurdistan Cumhuriyeti, Ufa, 450022, <br />st. Mendeleeva 132/1 ofis 5",
+    "ceo_key": "Müdür",
+    "ceo_val": "Mamliev Ilshat Rimovich (Şart'a göre)"
+  }
+}

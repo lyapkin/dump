@@ -1,0 +1,770 @@
+.projects-slider-window {
+  position: relative;
+  width: 100%;
+  border-radius: 4px;
+  background: #f5f5f5;
+}
+
+.projects-slider-block {
+  display: flex;
+  width: 100%;
+  /* height: 100%; */
+  aspect-ratio: 11/5;
+  overflow: hidden;
+  border-radius: var(--main-radius);
+}
+
+.project-slide {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  flex-grow: 0;
+  flex-shrink: 0;
+  transition: translate 1000ms ease-in-out;
+}
+.project-slide__img {
+  display: flex;
+  aspect-ratio: 11/5;
+}
+.project-slide__img > img {
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 11/5;
+}
+
+.project-slide__info {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  background-color: #fff;
+  border-radius: var(--main-radius);
+  padding: 28px 30px;
+  max-width: 587px;
+  display: grid;
+  grid-template-columns: 60% 35%;
+  column-gap: 5%;
+  grid-template-rows: auto 40px auto;
+  grid-template-areas:
+    "title company"
+    "city company"
+    "description button";
+}
+
+.project-slide__title {
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* max-width: 60%; */
+  padding-bottom: 6px;
+  color: rgba(27, 30, 33, 1);
+  grid-area: title;
+}
+
+.project-slide__location {
+  font-family: "Gilroy-600";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(123, 137, 144, 1);
+  padding-bottom: 32px;
+  grid-area: city;
+}
+
+.project-slide__description {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(27, 30, 33, 1);
+  /* max-width: 60%; */
+  grid-area: description;
+}
+
+/* .project-slide__date {
+    position: absolute;
+    right: 0;
+    top: 26px;
+    font-family: 'Gilroy-400';
+    font-weight: ;
+    font-size: 10px;
+    line-height: 20px;
+    color: rgba(129, 143, 155, 1);
+    background-color: rgba(241, 248, 254, 1);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 6px 16px 6px 16px;
+} */
+
+.project-slide__logo {
+  /* position: absolute;
+    top: 44px;
+    right: 79px; */
+  grid-area: company;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+}
+.project-slide__company-name {
+  /* position: absolute;
+    top: 44px;
+    right: 79px; */
+  grid-area: company;
+  display: block;
+  margin: 20px auto;
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.project-slide__button {
+  /* position: absolute;
+    right: 34px;
+    bottom: 41px; */
+  grid-area: button;
+}
+
+.project-slider__buttons {
+  display: flex;
+  /* justify-content: space-between; */
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-30px);
+}
+.project-slider__buttons > button:first-child {
+  position: absolute;
+  left: 0;
+  transform: translateX(-50%);
+}
+.project-slider__buttons > button:last-child {
+  position: absolute;
+  right: 0;
+  transform: translateX(50%);
+}
+
+.projects-slider__progress-bar {
+  margin-top: 38px;
+  width: 90%;
+  background-color: rgba(247, 247, 247, 1);
+}
+
+.projects-slider__progress-filled {
+  height: 5px;
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+  border-radius: var(--main-radius);
+  transition: width 1000ms ease-in-out;
+}
+
+.gov-clients-slider-block {
+  display: flex;
+  overflow: hidden;
+  column-gap: 2%;
+}
+
+.gov-clients-slide__wrapper {
+  min-width: 15%;
+  /* padding-right: 17px; */
+  transition: translate 500ms ease-in-out;
+}
+
+.gov-clients-slide {
+  min-width: 100%;
+  height: 108px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid rgba(245, 245, 245, 1);
+  border-radius: var(--main-radius);
+}
+
+.gov-clients-slide img {
+  max-width: 100%;
+}
+
+.gov-clients-slider__buttons {
+  position: absolute;
+  right: 0;
+  top: 20px;
+  display: flex;
+  column-gap: 6px;
+}
+
+.special-offer-slider {
+  overflow: hidden;
+  position: relative;
+  padding-top: 70px;
+  background: linear-gradient(
+    0deg,
+    rgba(225, 233, 228, 0) 0%,
+    rgba(226, 234, 229, 0.8) 0.01%,
+    #d9eff7 1%,
+    #fdffff 100%
+  );
+}
+.special-offer-slider-window {
+  display: flex;
+}
+
+.special-offer__slide {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 100%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  transition: translate 500ms ease-in-out;
+  padding-left: 54px;
+}
+
+.special-offer__about {
+  flex-basis: 33%;
+  padding-bottom: 190px;
+}
+
+.special-offer-about__date {
+  display: flex;
+  align-items: center;
+  column-gap: 37px;
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.12em;
+  color: rgba(123, 137, 144, 1);
+  text-transform: uppercase;
+}
+
+.special-offer-about__date img {
+  border: solid 1px rgba(39, 169, 220, 0.1);
+  padding: 11px;
+  border-radius: 12px;
+}
+
+.special-offer-about__title {
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  text-transform: uppercase;
+  padding-top: 41px;
+  padding-bottom: 4px;
+}
+
+.special-offer-about__text {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(123, 137, 144, 1);
+}
+
+.special-offer-about__actions {
+  position: absolute;
+  bottom: 85px;
+  left: 54px;
+  padding-top: 88px;
+  padding-bottom: 72px;
+  display: flex;
+  column-gap: 32px;
+  align-items: center;
+}
+
+.special-offer__buttons {
+  display: flex;
+  column-gap: 16px;
+}
+
+.special-offer__img {
+  padding-top: 45px;
+  max-width: 380px;
+  max-height: 350px;
+}
+.special-offer__img > img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.special-offer__plus {
+  width: 347px;
+  padding: 37px;
+}
+
+.special-offer__plus p {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(123, 137, 144, 1);
+}
+
+.special-offer__plus li {
+  padding-top: 25px;
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.special-offer__plus li::after {
+  content: "";
+  display: block;
+  background: linear-gradient(270deg, rgba(204, 211, 215, 0) 0%, #ccd3d7 100%);
+  height: 1px;
+  margin-top: 41px;
+}
+
+.special-offer-slider__dots-controll-bg {
+  width: 550px;
+  height: 80px;
+  background: rgba(245, 245, 245, 1);
+  margin: auto;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  transform: perspective(300px) rotateX(45deg) translateY(10px);
+}
+
+.special-offer-slider__dots-controll {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  column-gap: 19px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  position: absolute;
+}
+
+.special-offer-slider__dot {
+  display: flex;
+  padding: 8px;
+  border-radius: 50%;
+}
+
+.special-offer-slider__dot span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: rgba(123, 137, 144, 1);
+  border-radius: 50%;
+}
+
+.special-offer-slider__dot.current {
+  display: flex;
+  padding: 8px;
+  border: solid 1px rgba(223, 227, 228, 1);
+  border-radius: 50%;
+}
+
+.special-offer-slider__dot.current span {
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+}
+
+.caltalog-slider {
+  position: relative;
+}
+
+.catalog-slider__window {
+  display: flex;
+  overflow-x: hidden;
+  width: 100%;
+  column-gap: 2%;
+}
+
+.catalog-slider__slide {
+  position: relative;
+  border-radius: 10px;
+  background: url("/images/catalog/slider-bg-circles.png"),
+    rgba(246, 248, 247, 1);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: auto 90%;
+  padding: 32px 0 32px 32px;
+  min-width: 32%;
+  transition: translate 500ms ease-in-out;
+  max-height: 100%;
+  height: 100%;
+}
+
+.slide__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50%;
+  height: 100%;
+}
+
+.catalog-slider__slide h4 {
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  color: rgba(27, 30, 33, 1);
+  text-transform: uppercase;
+}
+
+.catalog-slider__slide ul {
+  padding-top: 6px;
+  padding-bottom: 3px;
+}
+
+.catalog-slider__slide li {
+  font-family: "Gilroy-400";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20.25px;
+  color: rgba(123, 137, 144, 1);
+  text-decoration: underline;
+  list-style: disc;
+  margin-left: 15px;
+  padding-bottom: 8px;
+}
+
+.catalog-slider__link {
+  display: block;
+  width: max-content;
+  padding: 15px 40px;
+  background: #fff;
+  border-radius: var(--main-radius);
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 26px;
+  color: rgba(39, 169, 220, 1);
+}
+@media (hover: hover) {
+  .catalog-slider__link:hover {
+    background: var(--main-gradient);
+    color: #fff;
+  }
+  .catalog-slider__link:hover .catalog-slider__link-arrow {
+    border-top: solid 2px #fff;
+    border-right: solid 2px #fff;
+  }
+}
+
+.catalog-slider__link-arrow {
+  border-top: solid 2px rgba(39, 169, 220, 1);
+  border-right: solid 2px rgba(39, 169, 220, 1);
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  transform: rotateZ(45deg);
+  margin-left: 5px;
+}
+
+.catalog-slider__pic {
+  position: absolute;
+  right: 0;
+  bottom: 50%;
+  translate: 0 50%;
+  width: 50%;
+  height: 100%;
+  display: flex;
+}
+
+.catalog-slider__pic img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.catalog-slider__buttons {
+  position: absolute;
+  top: -23%;
+  right: 0;
+  display: flex;
+  column-gap: 16px;
+}
+
+.catalog-slider__dots-controll {
+  padding-top: 60px;
+  column-gap: 19px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.catalog-slider__dot {
+  display: flex;
+  padding: 8px;
+  border-radius: 50%;
+}
+
+.catalog-slider__dot span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: rgba(123, 137, 144, 1);
+  border-radius: 50%;
+}
+
+.catalog-slider__dot.current {
+  display: flex;
+  padding: 8px;
+  border: solid 1px rgba(223, 227, 228, 1);
+  border-radius: 50%;
+}
+
+.catalog-slider__dot.current span {
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+}
+
+.home-front-slider__window {
+  width: 100%;
+  top: 0;
+  right: 100px;
+  transform: translateY(-5%);
+}
+
+.home-front-slider__slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-front-slider__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.home-front-slider__buttons {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.home-front-slider__btn {
+  font-family: "Gilroy-300";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 25px;
+  letter-spacing: 0.125em;
+  color: #27a9dc;
+  text-transform: uppercase;
+  padding: 28px 54px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  column-gap: 21px;
+}
+
+.home-front-slider__btn.disabled {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #595959;
+}
+
+@media only screen and (max-width: 1450px) {
+  .home-front-slider__slide img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .home-front-slider__btn {
+    font-size: 12px;
+    padding: 22px 48px;
+    column-gap: 5px;
+  }
+
+  .home-front-slider__btn svg {
+    width: 46px;
+    height: 6px;
+  }
+
+  .gov-clients-slider-block {
+    column-gap: 2%;
+  }
+
+  .gov-clients-slide__wrapper {
+    min-width: 18.4%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .gov-clients-slider-block {
+    column-gap: 2%;
+  }
+
+  .gov-clients-slide__wrapper {
+    min-width: 23.5%;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .home-front-slider__window {
+    transform: none;
+  }
+  .home-front-slider__btn {
+    display: none;
+  }
+  .catalog-slider__window {
+    column-gap: 3%;
+  }
+  .catalog-slider__slide {
+    min-width: 48.5%;
+  }
+
+  .projects-slider-window {
+    height: 520px;
+  }
+  .projects-slider-block {
+    height: 100%;
+  }
+  .project-slide {
+    flex-direction: column;
+  }
+  .project-slide__info {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    min-width: 100%;
+    display: grid;
+    /* grid-template-areas: 'logo location location location'
+                             'logo title title title'
+                             'text text button button'; */
+    /* align-items: start; */
+    background-color: #f6f8f7;
+    border-radius: 8px;
+    /* gap: 20px 10px; */
+    /* padding: 28px 30px; */
+  }
+  .project-slide__logo {
+    /* grid-area: logo; */
+    position: relative;
+    top: 0;
+    right: 0;
+    padding: 16px 30px;
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  .project-slide__location {
+    /* grid-area: location; */
+    font-family: "Gilroy-400";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #989898;
+    padding: 0;
+  }
+  .project-slide__title {
+    /* grid-area: title; */
+    font-family: "Gilroy-400";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 0;
+    max-width: 100%;
+  }
+  .project-slide__description {
+    /* grid-area: text; */
+    font-family: "Gilroy-300";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 130%;
+    color: #1b1e21;
+    max-width: 100%;
+  }
+  .project-slide__button {
+    /* grid-area: button; */
+    position: relative;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  .project-slider__buttons {
+    top: 30%;
+  }
+  .gov-clients-slide__wrapper {
+    min-width: 32%;
+  }
+  .gov-clients-slider__buttons {
+    top: initial;
+    bottom: 10px;
+    right: 50%;
+    transform: translateX(50%);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .catalog-slider__window {
+    column-gap: 6%;
+  }
+  .catalog-slider__slide {
+    min-width: 100%;
+  }
+
+  .projects-slider-window {
+    height: 450px;
+  }
+  .project-slider__buttons {
+    top: -75px;
+    transform: none;
+  }
+  .project-slider__buttons > button:first-child {
+    left: 43%;
+  }
+  .project-slider__buttons > button:last-child {
+    right: 43%;
+  }
+  .gov-clients-slide__wrapper {
+    min-width: 49%;
+  }
+  .gov-clients-slider__buttons {
+    /* top: 274px; */
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .catalog-slider__buttons {
+    left: 0;
+    justify-content: center;
+    top: -100px;
+  }
+  .project-slider__buttons > button:first-child {
+    left: 38%;
+  }
+  .project-slider__buttons > button:last-child {
+    right: 38%;
+  }
+
+  .projects-slider-window {
+    height: 310px;
+  }
+  .project-slide__info {
+    padding: 10px;
+    /* gap: 0 10px; */
+  }
+  .project-slide__location {
+    font-size: 10px;
+  }
+  .project-slide__title {
+    font-size: 10px;
+  }
+  .project-slide__description {
+    font-size: 10px;
+    /* padding-top: 10px; */
+  }
+  .project-slide__logo {
+    width: 100px;
+    /* padding: 6px 17px; */
+  }
+  .project-slide__button {
+    display: none;
+  }
+
+  .gov-clients-slider__buttons {
+    /* top: 155px; */
+  }
+}

@@ -1,0 +1,137 @@
+.map-section {
+  position: relative;
+  width: 100%;
+  height: 728px;
+}
+
+.map-card {
+  position: absolute;
+  top: 50%;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 40px 60px;
+  transform: translateY(-50%);
+  width: 500px;
+}
+
+.map-office {
+  font-family: "Gilroy-300";
+  font-weight: 300;
+  font-size: 35px;
+  line-height: 40.6px;
+  color: rgba(36, 39, 41, 1);
+  padding-bottom: 42px;
+  border-bottom: solid 1px rgba(222, 228, 239, 1);
+}
+.map-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.map-office > :first-child {
+  padding-bottom: 25px;
+}
+
+.map-office .map-item {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr 28px;
+  column-gap: 23px;
+}
+
+.map-office__icon {
+  grid-column: 1 / 2;
+  grid-row: 1 / -1;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(39, 169, 220, 1);
+  box-shadow: 2px 5px 8px 0px rgba(255, 255, 255, 0.05) inset;
+  border-radius: 10px;
+}
+
+.map-office__key {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+  font-family: "Gilroy-300";
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 17px;
+  color: rgba(36, 39, 41, 0.6);
+}
+
+.map-office__val {
+  grid-column: 2 / 3;
+  grid-row: 2 / -1;
+  font-family: "Gilroy-300";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  color: rgba(36, 39, 41, 1);
+}
+.map-office__val span {
+  display: block;
+}
+
+.map-card__social {
+  padding-top: 31px;
+  font-family: "Gilroy-300";
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: rgba(36, 39, 41, 1);
+}
+
+.map-card__social-list {
+  display: flex;
+  column-gap: 18px;
+  padding-top: 14px;
+}
+
+.map-card__social-icon {
+  width: 35px;
+  height: 35px;
+  background-color: rgba(39, 169, 220, 1);
+  border-radius: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.map-iframe {
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 992px) {
+  .map-card {
+    width: 400px;
+  }
+
+  .map-office {
+    font-size: 25px;
+  }
+
+  .map-card__social {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .map-section {
+    height: auto;
+  }
+  .map-card {
+    position: initial;
+    transform: none;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  .map-iframe {
+    height: 70vh;
+  }
+}

@@ -1,0 +1,208 @@
+.btns {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 34px;
+}
+
+.btn {
+  width: 240px;
+  height: 64px;
+  border-radius: 4px;
+  font-family: "Gilroy-400";
+  font-size: 16px;
+  line-height: 24px;
+  color: #7b8990;
+  background-color: #d4e2e73d;
+  text-transform: uppercase;
+}
+
+.wrap {
+  display: flex;
+}
+
+.btn:hover {
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+  color: #fff;
+  font-family: "Gilroy-600";
+  transition: all ease 0.2s;
+}
+
+.btn__active {
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+  color: #fff;
+  font-family: "Gilroy-600";
+}
+
+.title {
+  font-family: "Gilroy-700";
+  font-size: 40px;
+  line-height: 52px;
+  color: #1b1e21;
+  text-transform: uppercase;
+  margin-bottom: 43px;
+  max-width: 600px;
+}
+
+.text {
+  font-family: "Gilroy-500";
+  font-size: 20px;
+  line-height: 33px;
+  max-width: 650px;
+  color: #7b8990;
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 55px;
+}
+
+.item {
+  width: 32%;
+  background: #e8f5fa;
+  border-radius: 4px;
+  position: relative;
+  /* padding-bottom: 50px; */
+}
+
+.item__number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  background-color: #fff;
+  font-family: "Gilroy-700";
+  font-size: 16px;
+  line-height: 26px;
+  top: -32px;
+  border-radius: 50%;
+  color: #53cfff;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+
+.item__title {
+  padding-left: 32px;
+  margin-top: 62px;
+  font-family: "Gilroy-700";
+  font-size: 16px;
+  line-height: 26px;
+  text-transform: uppercase;
+  max-width: 50%;
+  height: 52px;
+}
+
+.item__line {
+  height: 3px;
+  background-color: #7b8990;
+  opacity: 16%;
+  width: 90%;
+  position: relative;
+  margin-top: 44px;
+  margin-bottom: 30px;
+}
+
+.item__line::after {
+  content: "";
+  position: absolute;
+  right: -14px;
+  bottom: -7px;
+  border: 8px solid transparent;
+  border-left: 8px solid #7b8990;
+}
+
+.item__img {
+  position: absolute;
+  right: 0;
+  top: 25px;
+}
+.item:last-of-type .item__img {
+  top: 35px;
+}
+
+.item__text {
+  font-family: "Gilroy-400";
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 400px;
+  padding-left: 32px;
+  color: #7b8990;
+}
+
+@media (max-width: 1300px) {
+  .item__img {
+    display: none;
+  }
+  .item__title {
+    text-align: center;
+    padding-left: 0;
+  }
+  .item__text {
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 900px) {
+  .car {
+    display: none;
+  }
+
+  .items {
+    flex-direction: column;
+  }
+
+  .item {
+    width: 100%;
+  }
+
+  .item__title {
+    text-align: left;
+    padding-left: 40px;
+  }
+
+  .item__img {
+    display: block;
+  }
+}
+
+@media (max-width: 700px) {
+  .title {
+    font-size: 28px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .wrap {
+    display: block;
+  }
+
+  .map {
+    width: 100%;
+    height: 100%;
+  }
+
+  .btns {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 460px) {
+  .item__img {
+    display: none;
+  }
+
+  .item__title {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .item__text {
+    text-align: center;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+}

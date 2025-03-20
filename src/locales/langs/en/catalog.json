@@ -1,0 +1,36 @@
+{
+  "catalog": "Catalog",
+  "presence": {
+    "title": "Availability",
+    "on": "In stock",
+    "off": "To order"
+  },
+  "filters": "Filters",
+  "price": "Price",
+  "price_discount": "Discounted price",
+  "to_cart": "Add to cart",
+  "in_cart": "In cart",
+  "get_price": "Check price",
+  "show_more": "Show more",
+  "categories": "Categories",
+  "catprops": "Properties",
+  "reset_filters": "Reset filters",
+  "search_placeholder": "Search for equipment",
+  "components_catalog": "Catalog of components",
+  "part_number": "Article",
+  "charachteristics": "Characteristics",
+  "description": {
+    "title": "Description"
+  },
+  "documentation": {
+    "title": "Documentation",
+    "text": "Certificates, product data sheets and test reports on request"
+  },
+  "info_1": "Lifetime service life <span>for all Components</span>",
+  "info_2": "Any questions? <span>we will consult</span>",
+  "info_3": "Buy components <span>at the sales office</span>",
+  "delivery_info_1": "We cooperate with all delivery services",
+  "delivery_info_2": "Delivery of goods without delays",
+  "delivery_info_3": "And the shortest delivery times",
+  "no_result": "No products were found matching your request. Try changing your search parameters."
+}

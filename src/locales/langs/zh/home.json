@@ -1,0 +1,86 @@
+{
+  "main": {
+    "title": "为建筑项目供应组件</span>",
+    "second": "我们将确保在最短的时间内<span>从莫斯科的仓库交付货物</span>，或者<span>我们将从我们的工厂直接从中国运送完整的集装箱</span>到您的建筑或生产现场",
+    "button": "获得商业报价",
+    "next": "下一个",
+    "prev": "后退",
+    "block_first": "库存超过<span>50万件</span>",
+    "block_second": "<span>在中国自行生产</span>"
+  },
+  "advantages": {
+    "title": "<span>与VYSOTA公司合作您会得到什么好处？</span>",
+    "first_block_title": "我们拥有产品所需的所有<span>许可证和批准</span><br/>",
+    "first_block_text": "我们的产品有证书和测试报告，质量标准EN74-1/BS1139",
+    "second_block_title": "我们直接<br/><span>与成熟的外国制造商合作</span>",
+    "second_block_text": "Vysota 公司 (Uralsnabresurs LLC) 是中国 TYT CO 工厂的脚手架制造商。有限公司适用于建筑和工业领域的全系列脚手架、模板和安全产品。",
+    "third_block_title": "<span>广泛</span>的产品和质量控制体系",
+    "third_block_text": "由于与俄罗斯其他设备制造商的密切联系，我们能够以最低的成本为客户提供最佳的解决方案。",
+    "forth_block_title": "我们保证市场上<span>最优惠的价格</span>",
+    "forth_block_text": "我们自己在中国和印度的工厂生产夹具和组件，因此我们提供最实惠的价格。"
+  },
+  "catalog": {
+    "title": "目录<span>组件</span>",
+    "button": "更多详情"
+  },
+  "projects": {
+    "title": "他们相信我们能够完成<span>最关键的目标</span>",
+    "project1_title": "阿穆尔州天然气处理厂建设",
+    "project1_city": "斯沃博德内",
+    "project1_text": "脚手架、模板和组件供应，2021 年至 2027 年。供应脚手架、模板",
+    "project2_title": "建设“托博尔斯克聚合物”工业园区",
+    "project2_city": "托博尔斯克",
+    "project2_text": "20XX年供应脚手架的夹具和组件。",
+    "project3_title": "亚马尔液化天然气工业园区建设",
+    "project3_city": "亚马尔半岛",
+    "project3_text": "2018年供应脚手架夹具和组件。",
+    "project4_title": "北极 LNG-2 综合设施的建设",
+    "project4_city": "摩尔曼斯克",
+    "project4_text": "2019-2021 年供应脚手架夹具和组件。",
+    "project5_title": "亚马尔-欧洲2号天然气管道建设",
+    "project5_city": "",
+    "project5_text": "2019年脚手架夹具及组件供应情况",
+    "project6_title": "Kharampurskoye 油田的开发",
+    "project6_city": "亚马尔-涅涅茨自治州",
+    "project6_text": "2020-2021年拉森板桩和木材的供应",
+    "project7_title": "鄂木斯克炼油厂建设",
+    "project7_city": "鄂木斯克",
+    "project7_text": "供应脚手架和组件。 2018-2021",
+    "project8_title": "下诺夫哥罗德炼油厂建设",
+    "project8_city": "下诺夫哥罗德",
+    "project8_text": "脚手架和组件供应，2018-2022 年。",
+    "project9_title": "萨哈林岛增压压缩机站建设",
+    "project9_city": "O·萨哈林岛",
+    "project9_text": "脚手架和组件供应，2019 年。",
+    "project10_title": "阿穆尔天然气化工联合体建设",
+    "project10_city": "斯沃博德内",
+    "project10_text": "供应脚手架、管道、模板和组件，2021 年至 2024 年。",
+    "project11_title": "伊尔库茨克聚合物工厂建设",
+    "project11_city": "伊尔库茨克",
+    "project11_text": "供应脚手架、管道、模板和部件，2023 年。",
+    "project12_title": "波罗的海天然气化工厂建设",
+    "project12_city": "金吉谢普",
+    "project12_text": "脚手架和组件供应，2018-2022 年。"
+  },
+  "delivery": {
+    "title": "送货至俄罗斯和独联体国家<span>任何地点</span>",
+    "text": "我们将确保尽快从莫斯科的仓库交付我们的货物，或者我们将从中国运来。"
+  },
+  "reputation": {
+    "title": "可靠的<span>声誉</span>，经过时间考验",
+    "block1_title": "自 2010 年起成为诚信供应商名册成员。",
+    "block1_text": "我们被列入诚信供应商名册已超过 14 年",
+    "block2_title": "我们为该国领先的建筑工地提供组件",
+    "block2_text": "我们为该国领先的建筑项目提供脚手架和模板的夹具和组件，包括阿穆尔天然气处理厂、亚马尔液化天然气、托博尔斯克聚合物、亚马尔自治区天然气管道、北极液化天然气-2 综合设施、Kharampurskoye 油田。",
+    "block3_title": "广泛的产品和质量控制体系",
+    "block3_text": "俄罗斯天然气工业股份公司 (Gazprom)、Tekfen Construction、INTER RAO、Yamata、SIBUR、Renaissance Construction、Velesstroy 等许多公司信任我们来完成他们的建设项目。",
+    "block4_title": "俄罗斯联邦3个仓库",
+    "block4_text": "我们在俄罗斯联邦拥有3个仓库，这有助于我们确保在最短的时间内交货"
+  },
+  "gov_clients": {
+    "title": "我们承接<span>世界最大公司的成套物品"
+  },
+  "thank_letters": {
+    "title": "感谢信"
+  }
+}

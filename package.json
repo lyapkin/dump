@@ -1,0 +1,27 @@
+{
+  "name": "visota-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/third-parties": "^15.0.0",
+    "framer-motion": "^11.0.25",
+    "i18next": "^23.11.2",
+    "i18next-resources-to-backend": "^1.2.1",
+    "next": "^14.2.11",
+    "next-i18n-router": "^5.4.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-i18next": "^14.1.0",
+    "react-slick": "^0.29.0",
+    "react-spinners": "^0.13.8",
+    "sharp": "^0.33.5",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.1.1"
+  }
+}

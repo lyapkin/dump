@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "blog": "Blog",
+    "about": "Şirket hakkında",
+    "faq": "SSS",
+    "partners": "Ortaklar için",
+    "delivery_payment": "Nakliye ve ödeme",
+    "vacancies": "Boş pozisyonlar",
+    "contacts": "Kişiler"
+  },
+  "header": {
+    "catalog": "Katalog"
+  },
+  "tabs": {
+    "homut": {
+      "homuti": "Kelepçeler",
+      "nepovorot": "Sabit kelepçe",
+      "povorot": "Döner kelepçe",
+      "stykov": "Yerleştirme kelepçesi",
+      "fix": "Sabitleme kelepçesi",
+      "bal": "Kiriş kelepçesi",
+      "dosk": "Tahtaya kelepçeleyin",
+      "bolt": "T-cıvata",
+      "lestnic": "Merdivenler için kelepçe"
+    },
+    "stroyles": {
+      "stroyles": "İskele",
+      "homut": "Khomutovye iskele",
+      "klin": "Kama ormanları",
+      "chash": "Fincan ormanları",
+      "complect": "İskele aksesuarları"
+    },
+    "opalub_coplect": {
+      "opalub_complect": "Kalıp aksesuarları",
+      "waterstop": "Su tutucu somun",
+      "klin_zamok": "Galvanizli kama kilidi",
+      "bfd_zamok": "Kilit BFD galvanizli",
+      "gaika_vint_opor": "Vida desteği için somun",
+      "gaika_stayzh_treh": "Üç kollu galvanizli bağlantı somunu",
+      "gaika_staych_dvuh": "Çift kollu galvanizli bağlantı somunu 90mm",
+      "gaika_sharnir": "Döner somun",
+      "vint_stayzh": "Sıkıştırma vidası",
+      "gaika_malaya": "Küçük kanat/kanat somunu",
+      "fix_armatur": "Takviye kelepçeleri"
+    },
+    "trubi_vgp": {
+      "trubi_vgp": "VGP boruları"
+    },
+    "lestnic_i_strem": {
+      "lestnici_i_strem": "Merdivenler ve seyyar merdivenler",
+      "lestnici": "Merdiven"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Ev",
+    "catalog": "Katalog"
+  },
+  "home": {
+    "first_screen": {
+      "title": "İnşaat projeleri için <span>bileşen tedariği</span>",
+      "second": "Mallarımızın <span>Moskova'daki bir depodan</span> mümkün olan en kısa sürede teslim edilmesini sağlayacağız veya <span>Çin'den getireceğiz</span>",
+      "button": "Ticari bir teklif alın",
+      "next": "Sonraki",
+      "prev": "Öncesi",
+      "block_first": "<span>500 binden fazla ürün</span> stokta",
+      "block_second": "<span>Çin'de</span> kendi üretimimiz"
+    },
+    "second_screen": {
+      "title": "<span>VYSOTA şirketiyle işbirliği yaparak</span> ne gibi avantajlar elde edeceksiniz?",
+      "first_block_title": "Ürünler için gerekli tüm <span>lisanslara ve onaylara</span> sahibiz",
+      "first_block_text": "Ürünlerimiz EN74-1/BS1139 kalite standardı sertifikalarına ve test raporlarına sahiptir.",
+      "second_block_title": "Doğrudan <span>güvenilir yabancı üreticilerle</span> çalışıyoruz",
+      "second_block_text": "Vysota şirketi (Uralsnabresurs LLC), Çin'deki TYT CO fabrikalarında iskele üreticisidir. LTD. İnşaat ve endüstriyel sektörlere yönelik eksiksiz bir iskele, kalıp ve güvenlik ürünleri yelpazesi.",
+      "third_block_title": "<span>Geniş ürün yelpazesi</span> ve kalite kontrol sistemi",
+      "third_block_text": "Rusya'daki diğer ekipman üreticileriyle olan yakın ilişkilerimiz sayesinde müşterilerimize sorunlarına minimum maliyetle en iyi çözümleri sunuyoruz.",
+      "forth_block_title": "Piyasadaki <span>en iyi fiyatı</span> garanti ediyoruz",
+      "forth_block_text": "Kelepçe ve bileşenlerini Çin ve Hindistan'daki fabrikalarda kendimiz üretiyoruz, bu nedenle en uygun fiyatları sunuyoruz."
+    },
+    "third_screen": {
+      "title": "Katalog <span>bileşenleri</span>",
+      "button": "Daha fazla detay"
+    },
+    "forth_screen": {
+      "title": "<span>En kritik nesneleri</span> tamamlamamız konusunda bize güveniyorlar",
+      "project1_title": "Amur Gaz İşleme Tesisi İnşaatı",
+      "project1_city": "Svobodnıy",
+      "project1_text": "İskele, kalıp ve bileşenlerin temini, 2021-2027. İskele, kalıp temini",
+      "project2_title": "\"Tobolsk Polimeri\" sanayi kompleksinin inşaatı",
+      "project2_city": "Tobolsk",
+      "project2_text": "20XX'te iskele için kelepçe ve bileşenlerin temini.",
+      "project3_title": "Yamal LNG sanayi kompleksinin inşaatı",
+      "project3_city": "Yamal Yarımadası",
+      "project3_text": "2018 yılında iskele için kelepçe ve bileşen tedariği.",
+      "project4_title": "Arktik LNG-2 kompleksinin inşaatı",
+      "project4_city": "Murmansk",
+      "project4_text": "İskele için kelepçe ve bileşen temini 2019-2021.",
+      "project5_title": "Yamal-Avrupa-2 gaz boru hattının inşaatı",
+      "project5_city": "",
+      "project5_text": "2019 yılında iskele için kelepçe ve bileşen tedariği",
+      "project6_title": "Kharampurskoye sahasının gelişimi",
+      "project6_city": "Yamalo-Nenets Özerk Okrugu",
+      "project6_text": "Larsen palplanş ve kereste temini 2020-2021",
+      "project7_title": "Omsk Rafinerisi İnşaatı",
+      "project7_city": "Omsk",
+      "project7_text": "İskele ve bileşenlerin temini. 2018-2021",
+      "project8_title": "Nizhny Novgorod'da rafineri inşaatı",
+      "project8_city": "Nijniy Novgorod",
+      "project8_text": "İskele ve bileşenlerin temini, 2018-2022.",
+      "project9_title": "Sakhalin Adası'nda hidrofor kompresör istasyonu inşaatı",
+      "project9_city": "O. Sakhalin",
+      "project9_text": "İskele ve bileşenlerinin temini, 2019.",
+      "project10_title": "Amur gaz kimyasal kompleksinin inşaatı",
+      "project10_city": "Svobodnıy",
+      "project10_text": "İskele, boru, kalıp ve bileşen temini, 2021-2024.",
+      "project11_title": "Irkutsk Polimer Fabrikası İnşaatı",
+      "project11_city": "İrkutsk",
+      "project11_text": "İskele, boru, kalıp ve bileşenlerin temini, 2023.",
+      "project12_title": "Baltık gaz kimyası kompleksinin inşaatı",
+      "project12_city": "Kingisepp",
+      "project12_text": "İskele ve bileşenlerin temini, 2018-2022."
+    },
+    "delivery": {
+      "title": "Rusya ve BDT ülkelerinde <span>her noktaya</span> teslimat",
+      "text": "Mallarımızın Moskova'daki bir depodan en kısa sürede teslim edilmesini sağlayacağız veya Çin'den getireceğiz."
+    },
+    "reputation": {
+      "title": "Güvenilir <span>itibar</span>, zaman içinde test edilmiştir",
+      "block1_title": "2010'dan bu yana iyi niyetli tedarikçiler siciline üye.",
+      "block1_text": "14 yılı aşkın bir süredir iyi niyetli tedarikçiler listesine dahil edildik",
+      "block2_title": "Ülkenin önde gelen şantiyelerine bileşen tedarik ettik",
+      "block2_text": "Gazprom, Tekfen İnşaat, INTER RAO, Yamata, SIBUR, Renaissance inşaat, Velesstroy gibi birçok firma inşaat projelerini tamamlamak için bize güveniyor.",
+      "block3_title": "Geniş ürün yelpazesi ve kalite kontrol sistemi",
+      "block3_text": "Amur Gaz İşleme Tesisi, Yamal LNG, Tobolsk Polimer, Yamal Özerk Okrugu'ndaki Gaz Boru Hattı, Arktik LNG-2 Kompleksi, Kharampurskoye Sahası dahil olmak üzere ülkenin önde gelen inşaat projelerine iskele ve kalıp için kelepçeler ve bileşenler tedarik ediyoruz.",
+      "block4_title": "Rusya Federasyonu'nda 3 Depo",
+      "block4_text": "Rusya Federasyonu'nda mümkün olan en kısa sürede teslimatı sağlamamıza yardımcı olan 3 depomuz var"
+    },
+    "gov_clients": {
+      "title": "Devlete ait en büyük şirketlerin komple tesislerini gerçekleştiriyoruz"
+    },
+    "thank_letters": {
+      "title": "Şükran günü mektupları"
+    },
+    "about": {
+      "title": "Şirket \"Vysota\" - Rusya Federasyonu ve BDT'de <span className={styles['home-about__header-bold']}>lider tedarikçi</span> <span className={styles['home-about__header-blue'] }>inşaat iskelesi ve kalıbı</span>",
+      "text": "Bileşenleri Çin'deki en büyük fabrikalarda üretiyoruz, bu da ürünlerimiz için piyasadaki en iyi fiyatları sunmamıza olanak sağlıyor. Bileşenler modern ekipmanlarda üretilmektedir.",
+      "video": "Hakkımızdaki videoyu izleyin",
+      "block1_type": "mal birimleri",
+      "block1_text": "Kelepçeler ve bileşenler Moskova'daki depolarda mevcuttur",
+      "block2_type": "ton",
+      "block2_text": "Depo stoğunun toplam ağırlığı",
+      "block3_type": "Düzenli ortaklar",
+      "block3_text": "Rusya Federasyonu ve BDT'de 150'den fazla işletmeyle ortaklığımız var",
+      "block4_type": "Üretim hatları",
+      "block4_text": "Üretimimiz gelişmiş ekipmanlarla donatılmış 14 üretim hattına sahiptir."
+    }
+  },
+  "form": {
+    "title": "Tesisiniz için <span>güvenilir bir bileşen tedarikçisine</span> mi ihtiyacınız var?",
+    "text": "Bir talep bırakın, 20 dakika içinde sizin için en iyi teklifi oluşturalım",
+    "placeholder_name": "İrtibat kurulacak kişi (tam ad)",
+    "placeholder_number": "Telefon numarası",
+    "placeholder_activity": "Etkinlik türü",
+    "placeholder_comment": "Uygulamaya yorum yazın",
+    "placeholder_email": "E-posta",
+    "placeholder_company_name": "İş adı",
+    "consult_button": "Danışmanlık siparişi verin",
+    "offer_button": "Ticari bir teklif alın",
+    "get_price": "Fiyatı kontrol et",
+    "order_button": "Çıkış yapmak",
+    "confidential": "Düğmeyi tıklayarak <span>veri işleme şartlarını</span> kabul etmiş olursunuz"
+  },
+  "form_screen": {
+    "title": "",
+    "text": ""
+  },
+  "map_screen": {
+    "title": "Neredeyiz",
+    "address": "Adres",
+    "number": "Telefon numarası",
+    "schedule": "Çalışma modu",
+    "subscribe": "Sosyal ağlarımıza abone olun"
+  },
+  "footer": {
+    "logo_text": "İnşaat projeleri için bileşen tedariği",
+    "text_us": "Bize mesaj yoluyla yazın",
+    "mail": {
+      "mail": "Posta",
+      "text_us": "<span>Mektup yazın, projelerinizi bize gönderin</span><span>size yanıt vermekten memnuniyet duyarız</span>",
+      "commercial": "Ticari teklifler için",
+      "text_director": "Yöneticiye yaz"
+    },
+    "copyright1": "Her hakkı saklıdır",
+    "copyright2": "Kopyalarken siteye bir bağlantı gereklidir",
+    "confid": "Gizlilik Politikası",
+    "user_agreement": "Kullanım Şartları",
+    "site_maker": "Ekip tarafından geliştirilen web sitesi"
+  },
+  "address": "Ufa st. Sorge 19/1",
+  "schedule": "<span>Pzt-Cum, 09:00 - 18:00,</span><span>Cumartesi-Paz, Kapalı</span>",
+  "city": "Ufa"
+}

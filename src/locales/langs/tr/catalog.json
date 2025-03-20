@@ -1,0 +1,36 @@
+{
+  "catalog": "Katalog",
+  "presence": {
+    "title": "Kullanılabilirlik",
+    "on": "Stokta var",
+    "off": "Sipariş vermek"
+  },
+  "filters": "Filtreler",
+  "price": "Fiyat",
+  "price_discount": "İndirimli fiyat",
+  "to_cart": "Sepete ekle",
+  "in_cart": "Sepette",
+  "get_price": "Fiyatı kontrol et",
+  "show_more": "Daha fazlasını göster",
+  "categories": "Kategoriler",
+  "catprops": "Özellikler",
+  "reset_filters": "Filtreleri sıfırla",
+  "search_placeholder": "Ekipman ara",
+  "components_catalog": "Bileşen kataloğu",
+  "part_number": "Madde",
+  "charachteristics": "Özellikler",
+  "description": {
+    "title": "Tanım"
+  },
+  "documentation": {
+    "title": "Dokümantasyon",
+    "text": "Talep üzerine sertifikalar, ürün veri sayfaları ve test raporları"
+  },
+  "info_1": "<span>Tüm Bileşenler</span> için ömür boyu hizmet ömrü",
+  "info_2": "Sorularınız mı var? <span>danışacağız</span>",
+  "info_3": "Bileşenleri <span>satış ofisinden</span> satın alın",
+  "delivery_info_1": "Tüm teslimat hizmetleriyle işbirliği yapıyoruz",
+  "delivery_info_2": "Malların gecikme olmadan teslimi",
+  "delivery_info_3": "Ve en kısa teslimat süreleri",
+  "no_result": "Talebinize uygun ürün bulunamadı. Arama parametrelerinizi değiştirmeyi deneyin."
+}

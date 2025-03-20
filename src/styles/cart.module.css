@@ -1,0 +1,421 @@
+.cart {
+  background-color: #f5f5f5;
+  padding-bottom: 32px;
+}
+
+.cart__title {
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 56px;
+  text-transform: uppercase;
+  color: #1b1e21;
+  padding-bottom: 21px;
+}
+
+.cart__content {
+  display: flex;
+  column-gap: 26px;
+}
+
+.cart__products {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 47px;
+}
+
+.cart__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.cart__card {
+  /* background-color: #fff; */
+  border-radius: 4px;
+  display: flex;
+  column-gap: 35px;
+  padding: 10px 0;
+}
+
+.card__cover {
+  width: 153px;
+  height: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.card__cover img {
+  width: 90%;
+  height: 90%;
+  object-fit: contain;
+}
+
+.card__product-info {
+  display: grid;
+  grid-template-columns: 60% 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas:
+    "name price"
+    "char code";
+  flex-grow: 1;
+  row-gap: 10px;
+}
+
+.product-info__name {
+  grid-area: name;
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #1b1e21;
+}
+
+.product-info__charachteristics {
+  grid-area: char;
+  align-self: end;
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+  max-height: 77px;
+  overflow: hidden;
+}
+
+.product-info__charachteristics li {
+  display: flex;
+  justify-content: space-between;
+}
+
+.characteristics__key {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #7b8990;
+}
+
+.characteristics__val {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1b1e21;
+  text-align: right;
+}
+.characteristics__val.present {
+  color: #40ac65;
+}
+
+.product-info__price {
+  grid-area: price;
+  justify-self: end;
+}
+
+.product-info__price {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-info__price-current {
+  font-family: "Gilroy-600";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #1b1e21;
+}
+
+.product-info__price-actual {
+  font-family: "Gilroy-600";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: line-through;
+  color: #7b8990;
+}
+
+.product-info__code {
+  grid-area: code;
+  justify-self: end;
+  align-self: self-end;
+  font-family: "Gilroy-600";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 20px;
+  color: #98928b;
+}
+
+.card__controls {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.controls__count {
+  display: flex;
+  align-items: center;
+}
+
+.controls__count-input {
+  font-family: "Gilroy-400";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  width: 52px;
+  height: 52px;
+  text-align: center;
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+}
+
+.controls__count-input,
+.controls__count-input[type="number"]::-webkit-inner-spin-button,
+.controls__count-input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.controls__count-input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+  margin: 0;
+}
+
+.controls__count button {
+  width: 52px;
+  height: 52px;
+  background: #f1f8fe;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.controls__count button:first-of-type {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.controls__count button:last-of-type {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.controls__delete {
+  background: #f1f8fe;
+  padding: 8px 12px;
+  border-radius: 4px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.controls__delete button {
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 13px;
+}
+
+.cart__form {
+  padding: 10px 32px;
+}
+
+.cart__total {
+  padding: 51px 34px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.total-discount,
+.total-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.total-discount__key,
+.total-price__key {
+  display: flex;
+  align-items: center;
+  column-gap: 25px;
+}
+.total__dots {
+  flex-grow: 1;
+  margin: 0 22px;
+  position: relative;
+  bottom: -8px;
+  border-bottom: dashed 1px #32b2e4;
+}
+.total-discount__val,
+.total-price__val {
+  width: 20%;
+}
+
+.total-discount__key {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #1b1e21;
+  text-transform: uppercase;
+}
+
+.total-discount__val {
+  font-family: "Gilroy-600";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #7b8990;
+}
+
+.total-price__key {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #d9d9d9;
+}
+
+.total-price__val {
+  font-family: "Gilroy-500";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #1b1e21;
+}
+
+.total-discount.hidden {
+  display: none;
+}
+
+.cart__empty-cart {
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 22px;
+  color: #7b8990;
+  border: solid 3px #9da6aa;
+  border-radius: 8px;
+}
+
+@media only screen and (max-width: 1450px) {
+  .cart__content {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .cart__form {
+    padding: 32px 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+  .cart__card {
+    display: grid;
+    grid-template-columns: auto min-content;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+      "cover controls"
+      "info info";
+    row-gap: 20px;
+    background-color: #fff;
+    padding: 20px;
+  }
+  .card__cover {
+    grid-area: cover;
+  }
+  .card__product-info {
+    grid-area: info;
+  }
+  .card__controls {
+    grid-area: controls;
+  }
+
+  .cart__title {
+    font-size: 25px;
+    line-height: normal;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .total-discount__key,
+  .total-price__key {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .cart__card {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+      "cover"
+      "info"
+      "controls";
+  }
+  .card__controls {
+    justify-self: end;
+  }
+  .card__product-info {
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+      "name price"
+      "code price"
+      "char char";
+    row-gap: 0;
+  }
+  .product-info__name {
+    grid-area: name;
+  }
+  .product-info__price {
+    grid-area: price;
+  }
+  .product-info__code {
+    grid-area: code;
+    justify-self: start;
+  }
+  .product-info__charachteristics {
+    grid-area: char;
+    margin-top: 20px;
+  }
+
+  .card__cover {
+    width: 100%;
+  }
+
+  .cart__total {
+    padding: 11px 14px;
+  }
+  .total-discount__key,
+  .total-price__key {
+    font-size: 16px;
+    column-gap: 8px;
+  }
+  .total__dots {
+    display: none;
+  }
+  .total-price__val,
+  .total-discount__val {
+    width: auto;
+  }
+}

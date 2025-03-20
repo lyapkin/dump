@@ -1,0 +1,32 @@
+{
+  "office_title": "Sales office and showroom",
+  "schedule_title": "Opening hours",
+  "msk_wharehouse_sch": "MSK warehouse: 24 hours a day",
+  "free_call": "free call within Russia, sales department",
+  "mail": "Mail",
+  "spb_wh": "Warehouse St. Petersburg",
+  "spb_wh_address": "St. Petersburg, Obukhovskaya Oborony Ave., 295, lit. AT, logopark \"Troitsky\"",
+  "msk_wh": "Warehouse Moscow region.",
+  "msk_wh_address": "Moscow region, Noginsk district, town. Obukhovo, Kudinovskoe highway, 4 building 27. PSK \"Atlant-Park\"",
+  "msk_sch_val": "Around the clock",
+  "details": {
+    "title": "Details",
+    "company": "Limited Liability Company \"Uralsnabresurs\"",
+    "inn": "TIN",
+    "kpp": "checkpoint",
+    "orgn": "OGRN",
+    "regist_number": "Registration certificate number",
+    "okpo": "OKPO code",
+    "bank_key": "Bank",
+    "bank_val": "BRANCH \"NIZHEGORODSKY\" JSC \"ALFA-BANK\"",
+    "bik": "BIC",
+    "ras_acc": "Settlement account",
+    "kor_acc": "Correspondent account",
+    "legal_address_key": "Legal address",
+    "legal_address_val": "Republic of Bashkortostan, Ufa, 450059, <br />st. Richard Sorge, 15/1",
+    "mail_address_key": "Postal address",
+    "mail_address_val": "Republic of Bashkortostan, Ufa, 450022, <br />st. Mendeleeva 132/1 office 5",
+    "ceo_key": "Director",
+    "ceo_val": "Mamliev Ilshat Rimovich (based on the Charter)"
+  }
+}

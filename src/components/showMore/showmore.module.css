@@ -1,0 +1,38 @@
+.show-more {
+  overflow-y: hidden;
+}
+
+.show-more.open {
+  height: fit-content;
+}
+
+.show-more__button {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  font-family: "Gilroy-500";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  background: linear-gradient(180deg, #53cfff 0%, #32b2e4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  padding-top: 30px;
+}
+
+.show-more__button > span {
+  /* min-width: 120px; */
+}
+
+.show-more__button > img {
+  max-width: 24px;
+  max-height: 24px;
+  flex-grow: 0;
+}
+
+.show-more.open + .show-more__button > img {
+  transform: rotateZ(180deg);
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Do you need a <span>reliable supplier of components</span> for your facility?",
+  "text": "Leave a request and we will create the best offer for you within 30 minutes",
+  "placeholder_name": "Contact person (full name)",
+  "placeholder_number": "Phone number",
+  "placeholder_activity": "Type of activity",
+  "placeholder_comment": "Write a comment on the application",
+  "placeholder_email": "Email",
+  "placeholder_company_name": "Company name",
+  "consult_button": "Order a consultation",
+  "offer_button": "Get a commercial offer",
+  "get_price": "Check price",
+  "order_button": "Place an order",
+  "confidential": "By clicking the button you agree <a>to the terms of data processing</a>",
+  "placeholder_entity": "Legal entity",
+  "placeholder_card": "Partner card",
+  "get_example": "Get a sample",
+  "input_contacts": "Enter your contact information",
+  "placeholder_delivery_address": "Delivery address",
+  "palceholder_order_comment": "Comments on the order",
+  "success": {
+    "title": "Thanks for your application",
+    "text_1": "You have successfully submitted your application.",
+    "text_2": "We will contact you shortly."
+  },
+  "or_call": "Or call the number"
+}

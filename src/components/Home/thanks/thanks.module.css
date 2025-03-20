@@ -1,0 +1,60 @@
+.thanks-letters__title {
+  font-family: "Gilroy-700";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 56px;
+  color: rgba(27, 30, 33, 1);
+  padding-bottom: 30px;
+  text-transform: uppercase;
+}
+.letters {
+  position: relative;
+}
+
+.letters-slider__btn-left,
+.letters-slider__btn-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.letters-slider__btn-left {
+  transform: translate(-50%, -50%);
+}
+.letters-slider__btn-right {
+  right: 0;
+  transform: translate(50%, -50%);
+}
+
+.letter {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.letter img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.popup-letter {
+  max-width: 90%;
+  height: 90%;
+}
+.popup-replacement {
+  cursor: pointer;
+}
+
+/* @media only screen and (max-width: 1450px) {
+}
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (max-width: 576px) {
+} */

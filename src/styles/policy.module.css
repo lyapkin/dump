@@ -1,0 +1,15 @@
+.policy {
+  padding-bottom: 40px;
+}
+.policy h5 {
+  padding-top: 10px;
+  font-size: 18px;
+}
+.policy ol {
+  list-style-type: decimal;
+}
+.policy li {
+  padding-top: 5px;
+  list-style-type: inherit;
+  list-style-position: inside;
+}

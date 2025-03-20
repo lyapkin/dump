@@ -1,0 +1,27 @@
+{
+  "title": "您的设施需要<span>可靠的组件供应商</span>吗？",
+  "text": "留下请求，我们将在 30 分钟内为您提供最佳报价",
+  "placeholder_name": "联系人（全名）",
+  "placeholder_number": "电话号码",
+  "placeholder_activity": "活动类型",
+  "placeholder_comment": "对应用程序发表评论",
+  "placeholder_email": "电子邮件",
+  "placeholder_company_name": "公司名称",
+  "consult_button": "订购咨询",
+  "offer_button": "获得商业报价",
+  "get_price": "查看价格",
+  "order_button": "下订单",
+  "confidential": "单击按钮即表示您同意<a>数据处理条款</a>",
+  "placeholder_entity": "法人实体",
+  "placeholder_card": "合作伙伴卡",
+  "get_example": "获取样品",
+  "input_contacts": "输入您的联系信息",
+  "placeholder_delivery_address": "送货地址",
+  "palceholder_order_comment": "对订单的评论",
+  "success": {
+    "title": "感谢您的申请",
+    "text_1": "您已成功提交申请。",
+    "text_2": "我们会尽快与您联系。"
+  },
+  "or_call": "或者拨打电话号码"
+}

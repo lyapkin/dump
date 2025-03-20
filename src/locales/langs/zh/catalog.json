@@ -1,0 +1,36 @@
+{
+  "catalog": "目录",
+  "presence": {
+    "title": "可用性",
+    "on": "有存货",
+    "off": "订购"
+  },
+  "filters": "过滤器",
+  "price": "价格",
+  "price_discount": "折扣价",
+  "to_cart": "添加到购物车",
+  "in_cart": "在购物车中",
+  "get_price": "查看价格",
+  "show_more": "显示更多",
+  "categories": "类别",
+  "catprops": "特性",
+  "reset_filters": "重置过滤器",
+  "search_placeholder": "搜索设备",
+  "components_catalog": "组件目录",
+  "part_number": "文章",
+  "charachteristics": "特征",
+  "description": {
+    "title": "描述"
+  },
+  "documentation": {
+    "title": "文档",
+    "text": "根据要求提供证书、产品数据表和测试报告"
+  },
+  "info_1": "<span>所有组件的终生使用寿命</span>",
+  "info_2": "有什么问题吗？ <span>我们会咨询</span>",
+  "info_3": "<span>在销售办事处</span>购买组件",
+  "delivery_info_1": "我们与所有送货服务合作",
+  "delivery_info_2": "货物交付无延误",
+  "delivery_info_3": "以及最短的交货时间",
+  "no_result": "没有找到符合您要求的产品。尝试更改您的搜索参数。"
+}

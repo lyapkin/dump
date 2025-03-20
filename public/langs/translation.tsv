@@ -1,0 +1,152 @@
+				
+item	ru	en	tr	zh
+				
+common:blog	Блог	Blog	Blog	博客
+common:about	О компании	About company	Şirket hakkında	关于公司
+common:faq	FAQ	FAQ	SSS	常问问题
+common:partners	Партнерам	For partners	Ortaklar için	对于合作伙伴
+common:delivery_payment	Доставка и оплата	Shipping and payment	Nakliye ve ödeme	运输和付款
+common:vacancies	Вакансии	Vacancies	Boş pozisyonlar	职位空缺
+common:contacts	Контакты	Contacts	Kişiler	联系方式
+common:catalog	Каталог товаров	Catalog	Katalog	目录
+common:homuti	Хомуты	Clamps	Kelepçeler	夹子
+common:nepovorot	Хомут неповоротный	Fixed clamp	Sabit kelepçe	固定夹
+common:povorot	Хомут поворотный	Rotary clamp	Döner kelepçe	旋转夹具
+common:stykov	Хомут стыковочный	Docking clamp	Yerleştirme kelepçesi	对接夹
+common:fix	Хомут фиксирующий	Fixing clamp	Sabitleme kelepçesi	固定夹
+common:bal	Хомут балочный	Beam clamp	Kiriş kelepçesi	梁夹
+common:dosk	Хомут к доске	Clamp to the board	Tahtaya kelepçeleyin	夹到板上
+common:bolt	Болт Т-образный	T-bolt	T-cıvata	T型螺栓
+common:lestnic	Хомут к лестнице	Clamp for stairs	Merdivenler için kelepçe	楼梯夹
+common:stroyles	Строительные леса	Scaffolding	İskele	脚手架
+common:homut	Хомутовые леса	Khomutovye scaffolding	Khomutovye iskele	霍穆托夫脚手架
+common:klin	Клиновые леса	Wedge forests	Kama ormanları	楔形森林
+common:chash	Чашечные леса	Cup forests	Fincan ormanları	杯林
+common:complect	Комплектующие к строительным лесам	Accessories for scaffolding	İskele aksesuarları	脚手架配件
+common:opalub_complect	Комлектующие к опалубке	Accessories for formwork	Kalıp aksesuarları	模板配件
+common:waterstop	Гайка ватерстоп	Waterstop nut	Su tutucu somun	止水螺母
+common:klin_zamok	Замок клиновой оцинкованный	Galvanized wedge lock	Galvanizli kama kilidi	镀锌楔锁
+common:bfd_zamok	Замок BFD оцинкованный	Lock BFD galvanized	Kilit BFD galvanizli	BFD 镀锌锁
+common:gaika_vint_opor	Гайка для винтовой опоры	Nut for screw support	Vida desteği için somun	螺杆支撑螺母
+common:gaika_stayzh_treh	Гайка стяжная трехрожковая оцинкованная	Three-arm galvanized coupling nut	Üç kollu galvanizli bağlantı somunu	三臂镀锌连接螺母
+common:gaika_staych_dvuh	Гайка стяжная двухрожковая оцинкованная 90мм	Double-arm galvanized coupling nut 90mm	Çift kollu galvanizli bağlantı somunu 90mm	双臂镀锌连接螺母90mm
+common:gaika_sharnir	Гайка шарнирная	Swivel nut	Döner somun	旋转螺母
+common:vint_stayzh	Винт стяжной	Clamping screw	Sıkıştırma vidası	夹紧螺丝
+common:gaika_malaya	Гайка малая барашковая/крыльчатая	Small wing/wing nut	Küçük kanat/kanat somunu	小翼形/翼形螺母
+common:fix_armatur	Фиксаторы арматуры	Reinforcement clamps	Takviye kelepçeleri	加固夹
+common:trubi_vgp	Трубы ВГП	VGP pipes	VGP boruları	VGP管道
+common:lestnici_i_strem	Лестницы и стремянки	Ladders and stepladders	Merdivenler ve seyyar merdivenler	梯子和活梯
+common:lestnici	Лестницы	Stairs	Merdiven	楼梯
+breadcrumbs:home	Главная	home	Ev	家
+breadcrumbs:catalog	Каталог	Catalog	Katalog	目录
+home:main.title	<span>Поставка комлектующих</span> для строительных объектов	<span>Supply of components</span> for construction projects	İnşaat projeleri için <span>bileşen tedariği</span>	为建筑项目供应组件</span>
+home:main.second	Обеспечим поставку наших товаров в кратчайшие сроки <span>со склада в Москве</span>, или <span>привезем из Китая</span>	We will ensure delivery of our goods as soon as possible <span>from a warehouse in Moscow</span>, or <span>we will bring them from China</span>	Mallarımızın <span>Moskova'daki bir depodan</span> mümkün olan en kısa sürede teslim edilmesini sağlayacağız veya <span>Çin'den getireceğiz</span>	我们将确保尽快<span>从莫斯科的仓库交付货物</span>，或者<span>我们将从中国带来货物</span>
+home:main.button	Получить коммерческое предложение	Get a commercial offer	Ticari bir teklif alın	获得商业报价
+home:main.next	Далее	Next	Sonraki	下一个
+home:main.prev	Назад	Previous	Öncesi	以前的
+home:main.block_first	Более <span>500 тыс единиц тваров</span> на складе	More than <span>500 thousand units of goods</span> in stock	<span>500 binden fazla ürün</span> stokta	库存超过<span>50万件</span>
+home:main.block_second	Собственное <span>производство в Китае</span>	Own <span>production in China</span>	<span>Çin'de</span> kendi üretimimiz	<span>在中国自己生产</span>
+home:advantages.title	Какие преимущества вы получите <span>сотрудничая с компанией ВЫСОТА ?</span>	What benefits will you get by <span>cooperating with the VYSOTA company?</span>	<span>VYSOTA şirketiyle işbirliği yaparak</span> ne gibi avantajlar elde edeceksiniz?	<span>与VYSOTA公司合作您会得到什么好处？</span>
+home:advantages.first_block_title	Имеем все необходимые <span>лицензии и допуски</span> на продукцию	We have all the necessary <span>licenses and approvals</span> for products	Ürünler için gerekli tüm <span>lisanslara ve onaylara</span> sahibiz	我们拥有产品所需的所有<span>许可证和批准</span>
+home:advantages.first_block_text	Наша продукция имеет сертификаты и протоколы испытаний, стандарт качества EN74-1/BS1139	Our products have certificates and test reports, quality standard EN74-1/BS1139	Ürünlerimiz EN74-1/BS1139 kalite standardı sertifikalarına ve test raporlarına sahiptir.	我们的产品有证书和测试报告，质量标准EN74-1/BS1139
+home:advantages.second_block_title	Мы работаем напрямую <span>с проверенными зарубежными производителями</span>	We work directly <span>with trusted foreign manufacturers</span>	Doğrudan <span>güvenilir yabancı üreticilerle</span> çalışıyoruz	我们直接<span>与值得信赖的外国制造商合作</span>
+home:advantages.second_block_text	Компания «Высота» (ООО «Уралснабресурс») является производителем строительных лесов в Китае на заводах TYT CO. LTD. Полный ассортимент строительных лесов, опалубки и средств безопасности для строительной и промышленной отрасли.	The Vysota company (Uralsnabresurs LLC) is a manufacturer of scaffolding in China at the TYT CO factories. LTD. A complete range of scaffolding, formwork and safety products for the construction and industrial sectors.	Vysota şirketi (Uralsnabresurs LLC), Çin'deki TYT CO fabrikalarında iskele üreticisidir. LTD. İnşaat ve endüstriyel sektörlere yönelik eksiksiz bir iskele, kalıp ve güvenlik ürünleri yelpazesi.	Vysota 公司 (Uralsnabresurs LLC) 是中国 TYT CO 工厂的脚手架制造商。有限公司适用于建筑和工业领域的全系列脚手架、模板和安全产品。
+home:advantages.third_block_title	<span>Широкий ассортимент</span> продукции и система контроля качества	<span>Wide range</span> of products and quality control system	<span>Geniş ürün yelpazesi</span> ve kalite kontrol sistemi	<span>广泛</span>的产品和质量控制体系
+home:advantages.third_block_text	Благодаря тесным контактам с другими производителями оборудования на территории России предлагаем клиентам наилучшие решения их задач при минимальных затратах.	Thanks to close contacts with other equipment manufacturers in Russia, we offer clients the best solutions to their problems at minimal costs.	Rusya'daki diğer ekipman üreticileriyle olan yakın ilişkilerimiz sayesinde müşterilerimize sorunlarına minimum maliyetle en iyi çözümleri sunuyoruz.	由于与俄罗斯其他设备制造商的密切联系，我们能够以最低的成本为客户提供最佳的解决方案。
+home:advantages.forth_block_title	Гарантируем <span>лучшую стоимость</span> на рынке	We guarantee <span>the best price</span> on the market	Piyasadaki <span>en iyi fiyatı</span> garanti ediyoruz	我们保证市场上<span>最优惠的价格</span>
+home:advantages.forth_block_text	Мы сами производим хомуты и комплектующие на заводах в Китае и Индии, поэтому предлагаем самые доступные цены.	We ourselves produce clamps and components at factories in China and India, so we offer the most affordable prices.	Kelepçe ve bileşenlerini Çin ve Hindistan'daki fabrikalarda kendimiz üretiyoruz, bu nedenle en uygun fiyatları sunuyoruz.	我们自己在中国和印度的工厂生产夹具和组件，因此我们提供最实惠的价格。
+form:title	Вам нужен <span>надежный поставщик комплектующих</span> для вашего объекта ?	Do you need a <span>reliable supplier of components</span> for your facility?	Tesisiniz için <span>güvenilir bir bileşen tedarikçisine</span> mi ihtiyacınız var?	您的设施需要<span>可靠的组件供应商</span>吗？
+form:text	Оставьте заявку и мы сформируем для вас лучшее предложение в течение 20 минут	Leave a request and we will create the best offer for you within 20 minutes	Bir talep bırakın, 20 dakika içinde sizin için en iyi teklifi oluşturalım	留下请求，我们将在 20 分钟内为您提供最佳报价
+form:placeholder_name	Контактное лицо (ФИО)	Contact person (full name)	İrtibat kurulacak kişi (tam ad)	联系人（全名）
+form:placeholder_number	Номер телефона	Phone number	Telefon numarası	电话号码
+form:placeholder_activity	Вид деятельности	Kind of activity	Etkinlik türü	活动种类
+form:placeholder_comment	Напишите комментарий к заявке	Write a comment on the application	Uygulamaya yorum yazın	对应用程序发表评论
+form:placeholder_email	E-mail	Email	E-posta	电子邮件
+form:placeholder_company_name	Наименование предприятия	Business name	İş adı	企业名称
+form:consult_button	Заказать консультацию	Order a consultation	Danışmanlık siparişi verin	订购咨询
+form:offer_button	Получить коммерческое предложение	Get a commercial offer	Ticari bir teklif alın	获得商业报价
+form:get_price	Уточнить цену	Check price	Fiyatı kontrol et	查看价格
+form:order_button	Оформить заказ	Checkout	Çıkış yapmak	查看
+form:confidential	Нажимая кнопку вы соглашаетесь <span>с условиями обработки данных</span>	By clicking the button you agree <span>to the terms of data processing</span>	Düğmeyi tıklayarak <span>veri işleme şartlarını</span> kabul etmiş olursunuz	单击按钮即表示您同意<span>数据处理条款</span>
+home:catalog.title	Каталог <span>комплектующих</span>	Catalog <span>components</span>	Katalog <span>bileşenleri</span>	目录<span>组件</span>
+home:catalog.button	Подробнее	More details	Daha fazla detay	更多细节
+home:projects.title	Нам доверяют комплектацию <span>самых ответственных объектов</span>	They trust us to complete the <span>most critical objects</span>	<span>En kritik nesneleri</span> tamamlamamız konusunda bize güveniyorlar	他们相信我们能够完成<span>最关键的目标</span>
+home:projects.project1_title	Строительство Амурского Газоперерабатывающий завода	Construction of the Amur Gas Processing Plant	Amur Gaz İşleme Tesisi İnşaatı	阿穆尔州天然气处理厂建设
+home:projects.project1_city	г. Свободный	Svobodny	Svobodnıy	斯沃博德内
+home:projects.project1_text	Поставка строительных лесов, опалубки и комплектующих, 2021-2027г. Поставка строительных лесов, опалубки	Supply of scaffolding, formwork and components, 2021-2027. Supply of scaffolding, formwork	İskele, kalıp ve bileşenlerin temini, 2021-2027. İskele, kalıp temini	脚手架、模板和组件供应，2021 年至 2027 年。供应脚手架、模板
+home:projects.project2_title	Строительство промышленного комплекса "Тобольск Полимер"	Construction of the industrial complex "Tobolsk Polymer"	"Tobolsk Polimeri" sanayi kompleksinin inşaatı	建设“托博尔斯克聚合物”工业园区
+home:projects.project2_city	г. Тобольск	Tobolsk	Tobolsk	托博尔斯克
+home:projects.project2_text	Поставка хомутов и комплектующих к строительным лесам 20ХХ г.	Supply of clamps and components for scaffolding in 20XX.	20XX'te iskele için kelepçe ve bileşenlerin temini.	20XX年供应脚手架的夹具和组件。
+home:projects.project3_title	Строительство промышленного комплекса "Ямал СПГ"	Construction of the Yamal LNG industrial complex	Yamal LNG sanayi kompleksinin inşaatı	亚马尔液化天然气工业园区建设
+home:projects.project3_city	полуостров Ямал	Yamal Peninsula	Yamal Yarımadası	亚马尔半岛
+home:projects.project3_text	Поставка хомутов и комплектующих к строительным лесам 2018 г.	Supply of clamps and components for scaffolding in 2018.	2018 yılında iskele için kelepçe ve bileşen tedariği.	2018年供应脚手架夹具和组件。
+home:projects.project4_title	Строительство комплекса "Арктитк СПГ-2"	Construction of the Arctic LNG-2 complex	Arktik LNG-2 kompleksinin inşaatı	北极 LNG-2 综合设施的建设
+home:projects.project4_city	г. Мурманск	Murmansk	Murmansk	摩尔曼斯克
+home:projects.project4_text	Поставка хомутов и комплектующих к строительным лесам 2019-2021 г.	Supply of clamps and components for scaffolding 2019-2021.	İskele için kelepçe ve bileşen temini 2019-2021.	2019-2021 年供应脚手架夹具和组件。
+home:projects.project5_title	Строительство Газопровода "Ямал-Европа-2"	Construction of the Yamal-Europe-2 gas pipeline	Yamal-Avrupa-2 gaz boru hattının inşaatı	亚马尔-欧洲2号天然气管道建设
+home:projects.project5_city				
+home:projects.project5_text	Поставка хомутов и комплектующих к строительным лесам 2019 г.	Supply of clamps and components for scaffolding in 2019	2019 yılında iskele için kelepçe ve bileşen tedariği	2019年脚手架夹具及组件供应情况
+home:projects.project6_title	Освоение Харампурского месторождения	Development of the Kharampurskoye field	Kharampurskoye sahasının gelişimi	Kharampurskoye 油田的开发
+home:projects.project6_city	ЯНАО	Yamalo-Nenets Autonomous Okrug	Yamalo-Nenets Özerk Okrugu	亚马尔-涅涅茨自治区
+home:projects.project6_text	Поставка Шпунта Ларсена и лесоматериала 2020-2021 г.	Supply of Larsen sheet pile and timber 2020-2021	Larsen palplanş ve kereste temini 2020-2021	2020-2021年拉森板桩和木材的供应
+home:projects.project7_title	Строительство Омского НПЗ	Construction of the Omsk Refinery	Omsk Rafinerisi İnşaatı	鄂木斯克炼油厂建设
+home:projects.project7_city	г. Омск	Omsk	Omsk	鄂木斯克
+home:projects.project7_text	Поставка строительных лесов и комплектующих. 2018-2021г.	Supply of scaffolding and components. 2018-2021	İskele ve bileşenlerin temini. 2018-2021	供应脚手架和组件。 2018-2021
+home:projects.project8_title	Строительство НПЗ в Нижнем Новгороде	Construction of a refinery in Nizhny Novgorod	Nizhny Novgorod'da rafineri inşaatı	下诺夫哥罗德炼油厂建设
+home:projects.project8_city	г. Нижний Новгород	Nizhny Novgorod	Nijniy Novgorod	下诺夫哥罗德
+home:projects.project8_text	Поставка строительных лесов и комплектующих, 2018-2022г.	Supply of scaffolding and components, 2018-2022.	İskele ve bileşenlerin temini, 2018-2022.	脚手架和组件供应，2018-2022 年。
+home:projects.project9_title	Строительство дожимной компрессорной станции на о.Сахалин	Construction of a booster compressor station on Sakhalin Island	Sakhalin Adası'nda hidrofor kompresör istasyonu inşaatı	萨哈林岛增压压缩机站建设
+home:projects.project9_city	о. Сахалин	O. Sakhalin	O. Sakhalin	O·萨哈林岛
+home:projects.project9_text	Поставка строительных лесов и комплектующих, 2019г.	Supply of scaffolding and components, 2019.	İskele ve bileşenlerinin temini, 2019.	脚手架和组件供应，2019 年。
+home:projects.project10_title	Строительство Амурского газохимического комплекса	Construction of the Amur gas chemical complex	Amur gaz kimyasal kompleksinin inşaatı	阿穆尔天然气化工联合体建设
+home:projects.project10_city	г. Свободный	Svobodny	Svobodnıy	斯沃博德内
+home:projects.project10_text	Поставка строительных лесов, труб, опалубки и комплектующих, 2021-2024г.	Supply of scaffolding, pipes, formwork and components, 2021-2024.	İskele, boru, kalıp ve bileşen temini, 2021-2024.	供应脚手架、管道、模板和组件，2021 年至 2024 年。
+home:projects.project11_title	Строительство Иркутского завода полимеров	Construction of the Irkutsk Polymer Plant	Irkutsk Polimer Fabrikası İnşaatı	伊尔库茨克聚合物工厂建设
+home:projects.project11_city	г. Иркутск	Irkutsk	İrkutsk	伊尔库茨克
+home:projects.project11_text	Поставка строительных лесов, труб, опалубки и комплектующих, 2023г.	Supply of scaffolding, pipes, formwork and components, 2023.	İskele, boru, kalıp ve bileşenlerin temini, 2023.	供应脚手架、管道、模板和部件，2023 年。
+home:projects.project12_title	Строительство Балтийского газохимического комплекса	Construction of the Baltic gas chemical complex	Baltık gaz kimyası kompleksinin inşaatı	波罗的海天然气化工厂建设
+home:projects.project12_city	г. Кингисепп	Kingisepp	Kingisepp	金吉谢普
+home:projects.project12_text	Поставка строительных лесов и комплектующих, 2018-2022г.	Supply of scaffolding and components, 2018-2022.	İskele ve bileşenlerin temini, 2018-2022.	脚手架和组件供应，2018-2022 年。
+home:delivery.title	Доставка <span>в любую точку</span> России и стран СНГ	Delivery <span>to any point</span> in Russia and CIS countries	Rusya ve BDT ülkelerinde <span>her noktaya</span> teslimat	送货至俄罗斯和独联体国家<span>任何地点</span>
+home:delivery.text	Обеспечим поставку наших товаров в кратчайшие сроки со склада в Москве, или привезем из Китая.	We will ensure delivery of our goods as soon as possible from a warehouse in Moscow, or we will bring them from China.	Mallarımızın Moskova'daki bir depodan en kısa sürede teslim edilmesini sağlayacağız veya Çin'den getireceğiz.	我们将确保尽快从莫斯科的仓库交付我们的货物，或者我们将从中国运来。
+home:reputation.title	Надежная <span>репутация</span>, проверенная временем	Reliable <span>reputation</span>, time-tested	Güvenilir <span>itibar</span>, zaman içinde test edilmiştir	可靠的<span>声誉</span>，经过时间考验
+home:reputation.block1_title	Участник реестра добросовестных поставщиков с 2010 года.	Member of the register of bona fide suppliers since 2010.	2010'dan bu yana iyi niyetli tedarikçiler siciline üye.	自 2010 年起成为诚信供应商名册成员。
+home:reputation.block1_text	Мы более 14 лет входим в реестр добросовестных поставщиков	We have been included in the register of bona fide suppliers for more than 14 years	14 yılı aşkın bir süredir iyi niyetli tedarikçiler listesine dahil edildik	我们被列入诚信供应商名册已超过 14 年
+home:reputation.block2_title	Поставляли комплектующие на ведущие стройки страны	We supplied components to the country's leading construction sites	Ülkenin önde gelen şantiyelerine bileşen tedarik ettik	我们为该国领先的建筑工地提供组件
+home:reputation.block2_text	Нам доверяют комплектацию своих строительных объектов такие компании как Газпром, Tekfen Construction, ИНТЕР РАО, Yamata, СИБУР, Renaissance construction, Велесстрой и многие другие.	Such companies as Gazprom, Tekfen Construction, INTER RAO, Yamata, SIBUR, Renaissance construction, Velesstroy and many others trust us to complete their construction projects.	Gazprom, Tekfen İnşaat, INTER RAO, Yamata, SIBUR, Renaissance inşaat, Velesstroy gibi birçok firma inşaat projelerini tamamlamak için bize güveniyor.	Gazprom、Tekfen Construction、INTER RAO、Yamata、SIBUR、Renaissance Construction、Velesstroy 等公司都信任我们来完成他们的建设项目。
+home:reputation.block3_title	Широкий ассортимент продукции и система контроля качества	Wide range of products and quality control system	Geniş ürün yelpazesi ve kalite kontrol sistemi	广泛的产品和质量控制体系
+home:reputation.block3_text	Поставляем хомуты и комплектующие для строительных лесов и опалубки на ведущие стройки страны, в их числе Амурский ГПЗ, Ямал СПГ, Тобольск Полимер, Газопровод в ЯМАО, Комплекс Арктик СПГ-2, Харампурское месторождение.	We supply clamps and components for scaffolding and formwork to the country's leading construction projects, including the Amur Gas Processing Plant, Yamal LNG, Tobolsk Polymer, Gas Pipeline in the Yamal Autonomous Okrug, Arctic LNG-2 Complex, Kharampurskoye Field.	Amur Gaz İşleme Tesisi, Yamal LNG, Tobolsk Polimer, Yamal Özerk Okrugu'ndaki Gaz Boru Hattı, Arktik LNG-2 Kompleksi, Kharampurskoye Sahası dahil olmak üzere ülkenin önde gelen inşaat projelerine iskele ve kalıp için kelepçeler ve bileşenler tedarik ediyoruz.	我们为该国领先的建筑项目提供脚手架和模板的夹具和组件，包括阿穆尔天然气处理厂、亚马尔液化天然气、托博尔斯克聚合物、亚马尔自治区天然气管道、北极液化天然气-2 综合设施、Kharampurskoye 油田。
+home:reputation.block4_title	3 Склада на территории РФ	3 Warehouses in the Russian Federation	Rusya Federasyonu'nda 3 Depo	俄罗斯联邦3个仓库
+home:reputation.block4_text	Мы имеем 3 складских помещения в РФ что помогает нам обеспечивать доставку в кратчайшие сроки	We have 3 warehouses in the Russian Federation, which helps us ensure delivery in the shortest possible time	Rusya Federasyonu'nda mümkün olan en kısa sürede teslimatı sağlamamıza yardımcı olan 3 depomuz var	我们在俄罗斯联邦拥有3个仓库，这有助于我们确保在最短的时间内交货
+home:gov_clients.title	Осуществляем комплектации объектов <span>крупнейших государственных компаний	We carry out complete sets of facilities of the largest state-owned companies	Devlete ait en büyük şirketlerin komple tesislerini gerçekleştiriyoruz	我们承接最大国企的成套设施
+home:thank_letters.title	Благодарственные письма	Thanksgiving letters	Şükran günü mektupları	感恩节信件
+home:about.title	Компания «Высота» - <span className={styles['home-about__header-bold']}>ведущий поставщик</span> В РФ и СНГ <span className={styles['home-about__header-blue']}>строительных лесов и опалубки</span>	Company "Vysota" - <span className={styles['home-about__header-bold']}>leading supplier</span> In the Russian Federation and the CIS <span className={styles['home-about__header-blue']}>construction scaffolding and formwork</span>	Şirket "Vysota" - Rusya Federasyonu ve BDT'de <span className={styles['home-about__header-bold']}>lider tedarikçi</span> <span className={styles['home-about__header-blue'] }>inşaat iskelesi ve kalıbı</span>	“Vysota”公司 - <span className={styles['home-about__header-bold']}>领先供应商</span> 在俄罗斯联邦和独联体国家 <span className={styles['home-about__header-blue'] }>建筑脚手架和模板</span>
+home:about.text	Мы производим комплектующие на крупнейших заводах в Китае, что позволяет нам предложить лучшие цены на рынке на нашу продукцию. Комплектующие производятся на современном оборудовании.	We produce components at the largest factories in China, which allows us to offer the best prices on the market for our products. Components are produced on modern equipment.	Bileşenleri Çin'deki en büyük fabrikalarda üretiyoruz, bu da ürünlerimiz için piyasadaki en iyi fiyatları sunmamıza olanak sağlıyor. Bileşenler modern ekipmanlarda üretilmektedir.	我们在中国最大的工厂生产零部件，这使我们能够为我们的产品提供市场上最优惠的价格。部件是在现代化设备上生产的。
+home:about.video	Смотрите видео о нас	Watch the video about us	Hakkımızdaki videoyu izleyin	观看有关我们的视频
+home:about.block1_type	единиц товаров	units of goods	mal birimleri	商品单位
+home:about.block1_text	Хомутов и комплектующих в наличии на складах в Москве	Clamps and components available in warehouses in Moscow	Kelepçeler ve bileşenler Moskova'daki depolarda mevcuttur	莫斯科仓库提供夹具和组件
+home:about.block2_type	тонн	tons	ton	吨
+home:about.block2_text	Общий вес складского запаса	Total weight of warehouse stock	Depo stoğunun toplam ağırlığı	仓库库存总重
+home:about.block3_type	Постоянных партнеров	Regular partners	Düzenli ortaklar	固定合作伙伴
+home:about.block3_text	Мы имеем партнерские отношения с более 150 предприятиями на територии РФ и СНГ	We have partnerships with more than 150 enterprises in the Russian Federation and the CIS	Rusya Federasyonu ve BDT'de 150'den fazla işletmeyle ortaklığımız var	我们与俄罗斯联邦和独联体国家的 150 多家企业建立了合作伙伴关系
+home:about.block4_type	Производственных линий	Production lines	Üretim hatları	生产线
+home:about.block4_text	На нашем производстве имеется 14 производственных линий оснащеных передовым оборудованием	Our production has 14 production lines equipped with advanced equipment	Üretimimiz gelişmiş ekipmanlarla donatılmış 14 üretim hattına sahiptir.	我们的生产拥有14条生产线，配备先进的设备
+map:title	Где мы находимся	Where are we	Neredeyiz	我们在哪里
+map:address	Адрес	Address	Adres	地址
+map:number	Номер телефона	Phone number	Telefon numarası	电话号码
+map:schedule	Режим работы	Operating mode	Çalışma modu	操作模式
+map:subscribe	Подписывайтесь на наши соцсети	Subscribe to our social networks	Sosyal ağlarımıza abone olun	订阅我们的社交网络
+footer:logo_text	Поставка комплектующих для строительных объектов	Supply of components for construction projects	İnşaat projeleri için bileşen tedariği	为建筑项目供应零部件
+footer:text_us	Пишите нам в мессенджеры	Write to us in messengers	Bize mesaj yoluyla yazın	通过 Messenger 给我们写信
+footer:mail	Почта	Mail	Posta	邮件
+footer:mail_us	<span>Пишите письма, скидывайте свои проекты</span><span>рады будем ответить Вам</span>	<span>Write letters, send us your projects</span><span>we will be glad to answer you</span>	<span>Mektup yazın, projelerinizi bize gönderin</span><span>size yanıt vermekten memnuniyet duyarız</span>	<span>写信，将您的项目发送给我们</span><span>我们很乐意回复您</span>
+footer:mail_commercial	Для коммерческих предложений	For commercial offers	Ticari teklifler için	对于商业优惠
+footer:mail_director	Написать руководителю	Write to the manager	Yöneticiye yaz	写信给经理
+footer:copyright1	Все права защищены	All rights reserved	Her hakkı saklıdır	版权所有
+footer:copyright2	При копировании обязательна ссылка на сайт	When copying, a link to the site is required	Kopyalarken siteye bir bağlantı gereklidir	复制时需要提供网站链接
+footer:confid	Политика конфиденциальности	Privacy Policy	Gizlilik Politikası	隐私政策
+footer:user_agreement	Пользовательское соглашение	Terms of use	Kullanım Şartları	使用条款
+footer:site_maker	Сайт разработан командой	Website developed by team	Ekip tarafından geliştirilen web sitesi	网站由团队开发
+common:address	г. Уфа ул. Зорге 19/1	Ufa st. Sorge 19/1	Ufa st. Sorge 19/1	乌法街佐尔格 19/1
+common:schedule	<span>Пн-Пт, с 09:00 до 18:00,</span><span>Сб-Вс, Выходной</span>	<span>Mon-Fri, from 09:00 to 18:00,</span><span>Sat-Sun, Closed</span>	<span>Pzt-Cum, 09:00 - 18:00,</span><span>Cumartesi-Paz, Kapalı</span>	<span>周一至周五，09:00 至 18:00，</span><span>周六至周日，休息</span>
+common:city	г. Уфа	Ufa	Ufa	乌法
